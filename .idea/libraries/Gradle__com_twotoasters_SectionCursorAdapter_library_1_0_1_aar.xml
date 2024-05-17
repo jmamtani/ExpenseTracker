@@ -1,10 +1,13 @@
 <component name="libraryTable">
-  <library name="Gradle: com.twotoasters.SectionCursorAdapter:library:1.0.1@aar">
+  <library name="Gradle: com.twotoasters.SectionCursorAdapter:library:1.0.1@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d6d17e20015f9944aeb8d902382274f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d6d17e20015f9944aeb8d902382274f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9edccf100f24788da6d26daeaa037e99/transformed/library-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/9edccf100f24788da6d26daeaa037e99/transformed/library-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/9edccf100f24788da6d26daeaa037e99/transformed/library-1.0.1/AndroidManifest.xml" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twotoasters.SectionCursorAdapter/library/1.0.1/b39fed1d60bc398c97e90a7319f7e4abe224b208/library-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twotoasters.SectionCursorAdapter/library/1.0.1/eb15ece3a93948c446c4c46ac9405fa3f2d50709/library-1.0.1-sources.jar!/" />
     </SOURCES>

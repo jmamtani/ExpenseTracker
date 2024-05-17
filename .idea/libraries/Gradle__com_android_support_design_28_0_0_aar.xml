@@ -1,11 +1,12 @@
 <component name="libraryTable">
-  <library name="Gradle: com.android.support:design:28.0.0@aar">
+  <library name="Gradle: com.android.support:design:28.0.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0e9f29c9b11cdc3656bef26f07ce26d/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/a49e6f7b688cc6a449b680d8d8b991c8/transformed/design-28.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0e9f29c9b11cdc3656bef26f07ce26d/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0e9f29c9b11cdc3656bef26f07ce26d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/a49e6f7b688cc6a449b680d8d8b991c8/transformed/design-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a49e6f7b688cc6a449b680d8d8b991c8/transformed/design-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a49e6f7b688cc6a449b680d8d8b991c8/transformed/design-28.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
